@@ -124,5 +124,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
+		 return programmer_hash[:adding_to_dennis][:languages]=>"Assembly"
 
 end
